@@ -35,7 +35,7 @@ p{
    padding-right: 5%;
  } */
 
- span{
+ /* span{
   font-size: 20px;
   color:blue;
   font-weight: bold;
@@ -43,4 +43,59 @@ p{
  div{
   text-align: center;
   background-color: brown;
+ } */
+
+ /* div{ */
+  /* background-color: green; */
+  /* padding: 5px;
+  margin: 10px; */
+  /* margin-top: -10px; */
+  /* border-width: 2px; */
+  /* border-style: solid; */
+  /* border-style: solid dashed dotted double ; */
+  /* border-color: blue; */
+  /* border-color:red green blue yellow; */
+  /* border: 1px solid blue; */
+ /* } */
+
+ /* div{
+  width: 300px;
+  padding: 5px;
+  margin: 10px;
+  border: 10px solid blue;
+  outline: 5px solid red;
+ } */
+  /* span {
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px;
+  }
+   div {
+    background-color: #ddd;
+    padding: 10px;
+    margin: 10px;
+  } */
+
+  /* div{
+    display: visible;
+  }
+  .first{
+    display: none;
+  } */
+ 
+/* .one,
+.two,
+.three {
+  padding: 10px;
+  margin: 5px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  }
+.one {
+  text-align: center;
+} */
+ div p{
+  color: red;
+ 
+
  }
