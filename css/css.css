@@ -99,3 +99,39 @@ p{
  
 
  } */
+
+ /* div{
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  display: inline-block; */
+  /* min-width: 400px; */
+  /* max-width: 200px; */
+  /* min-height: 20px; */
+  /* max-height: 400px;
+ } */
+
+ /* div{
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  width: 200px;
+  height: 100px; */
+  /* overflow: hidden; */
+  /* overflow: scroll; */
+  /* overflow: auto; */
+  /* overflow-x: hidden; */
+  /* overflow-y: scroll; */
+ /* }
+  */
+  div{
+    background-color: green;
+    color: #ddd;
+    text-shadow: 10 30 0 red;
+    text-align: center;
+    direction: ltr;
+    
+  }
