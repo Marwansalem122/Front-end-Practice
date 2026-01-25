@@ -1,0 +1,36 @@
+
+p{
+  font-size: 16px;
+  color: red;
+}
+.important{
+  font-weight: bold;
+  color: blue;
+}
+#myId{
+  font-style: italic;
+  color: green;
+}
+/* div{
+  background-color: yellow;
+  background-color: rgb(0, 0, 0, 0.5);
+  background-image: url("../img/me.jpg"); */
+  /* background-repeat: repeat-x; */
+  /* background-repeat: repeat-y; */
+  /* background-repeat: no-repeat; */
+  /* background-attachment: scroll; */
+  /* background-attachment: fixed; */
+  /* background-position: center; */
+  /* background-position: top right; */
+  /* background-size: auto; */
+  /* background-size: cover; */
+  /* background-size: contain; */
+  /* background-size:  100% 100%;
+} */
+ div{
+  background-color: aqua;
+  /* padding: 10px 40px; top bottom    left right */
+   /* padding: 10px 20px 30px ; top right bottom */
+   padding-top: 10px;
+   padding-right: 5%;
+ }
